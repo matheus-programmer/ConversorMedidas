@@ -1,3 +1,13 @@
+/*
+Mikaele dos Santos Aguiar, 2323833, ADS
+Nayra Fonseca Dos Santos- 2323793, ADS
+Matheus Alves Medeiros – 2323804, ADS
+Carlos Henrique Alves, 2323853, ADS
+Wiulis de Araujo Monteiro – 2326322, ADS
+Nicole Stefhany Monteiro Amed – 2326323, ADS
+*/
+
+
 package com.example.conversormedidas
 
 import android.os.Bundle
